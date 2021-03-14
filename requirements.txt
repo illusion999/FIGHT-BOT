@@ -63,7 +63,7 @@ spotify_token
 spotdl
 sqlalchemy>=1.2
 telegraph
-twitter_scraper
+telethon==1.19.0
 html-telegraph-poster
 urbandict>=0.5
 validators

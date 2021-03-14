@@ -45,7 +45,15 @@
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
       "value": "enteryourappname",
       "required": true
-    }
+    },
+    "TG_BOT_USER_NAME_BF_HER": {
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
+      "value": "@MAFIA_PUBLIC_bot"
+    },
+    "TG_BOT_TOKEN_BF_HER": {
+      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+      "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
+    }       
   },
   "addons": [
     {

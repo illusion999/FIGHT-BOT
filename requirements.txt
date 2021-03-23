@@ -18,7 +18,6 @@ pytube>=9.5.1
 pylast
 pySmartDL
 requests>=2.18.4
-sqlalchemy
 sqlalchemy==1.3.23
 telethon==1.19.0
 html-telegraph-poster

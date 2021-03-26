@@ -6,10 +6,10 @@
 
 
 
-# 𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
+# FIGHTBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-Mafia userbot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MAFIA_USERBOT THANKS FOR VISITING OUR REPO💖
+FIGHTBOT made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MAFIA_USERBOT THANKS FOR VISITING OUR REPO💖
 [![MAFIA logo](https://telegra.ph/file/b61486075c6ef73dd0d12.png)](https://t.me/MAFIA_USERBOT)
 
 

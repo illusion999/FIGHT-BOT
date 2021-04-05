@@ -24,12 +24,12 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
-      "value": "1673457128",
+      "value": "1690949100 1369416523",
       "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": "*",
+      "value": ".",
       "required": false
     },
     "STRING_SESSION": {
